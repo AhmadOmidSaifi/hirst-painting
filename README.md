@@ -29,5 +29,5 @@ Recreate the vibrant dot-style artwork inspired by **Damien Hirst** using Python
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/hirst-painting.git
+git clone https://github.com/AhmadOmidSaifi/hirst-painting.git
 cd hirst-painting
