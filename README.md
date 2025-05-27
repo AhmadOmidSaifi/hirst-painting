@@ -1,6 +1,6 @@
 # 🎨 Hirst Painting with Python 🐍
 
-Recreate the vibrant dot-style artwork inspired by **Damien Hirst** using Python's `turtle` module and color extraction via `colorgram.py`. A fun and colorful way to practice loops, functions, and working with external libraries!
+Recreate the vibrant dot-style artwork inspired by **Damien Hirst** using Python's `turtle` module and color extraction via `colorgram.py`. A fun and colorful way to practice loops, functions, and working with external libraries!!!
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green)
