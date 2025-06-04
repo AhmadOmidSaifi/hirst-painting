@@ -26,28 +26,3 @@ for dot_count in range(1, number_of_dots + 1):
 screen = turtle_module.Screen()
 screen.exitonclick()
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#import colorgram
-#colors = colorgram.extract('image.jpg',15)
-
-#colrs = []
-# for color in colors:
-#     r = color.rgb.r
-#     g = color.rgb.g
-#     b = color.rgb.b
-#     rgb_colrs = (r, g, b)
-#     colrs.append(rgb_colrs)
-# print(colrs)
